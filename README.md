@@ -2,10 +2,6 @@
 <center><h1 style="font-size:50px;">CONVOLUTIONAL NEURAL NETWORK USING KERAS</h1></center>
 <br> </br>
 <br> </br>
-<br> </br>
-<br> </br>
-<br> </br>
-
 
 <center><h2 style="font-size:20px;"> Haryanto (M07158031)</h2></center>
 
@@ -232,7 +228,7 @@ df['category'].value_counts().plot.bar()
 
 
 
-![png](output_15_1.png)
+<center><img src="figures/a.png"  width="800" alt="The Pulpit Rock">
 
 
 From our data we have 4000 cats and 4000 dogs
@@ -254,7 +250,7 @@ plt.imshow(image)
 
 
 
-![png](output_18_1.png)
+<center><img src="figures/b.png"  width="800" alt="The Pulpit Rock">
 
 
 <center><h1>Build Model</h1></center>
@@ -407,7 +403,7 @@ train_df['category'].value_counts().plot.bar()
 
 
 
-![png](output_30_1.png)
+<center><img src="figures/c.png"  width="800" alt="The Pulpit Rock">
 
 
 
@@ -423,7 +419,7 @@ validate_df['category'].value_counts().plot.bar()
 
 
 
-![png](output_31_1.png)
+<center><img src="figures/d.png"  width="800" alt="The Pulpit Rock">
 
 
 
@@ -627,7 +623,8 @@ plt.show()
 ```
 
 
-![png](output_42_0.png)
+<center><img src="figures/e.png"  width="800" alt="The Pulpit Rock">
+<center><img src="figures/f.png"  width="800" alt="The Pulpit Rock">
 
 
 <center><h1>Prepare Testing Data</h1></center>
@@ -692,7 +689,7 @@ test_df['category'].value_counts().plot.bar()
 
 
 
-![png](output_52_1.png)
+<center><img src="figures/g.png"  width="800" alt="The Pulpit Rock">
 
 
 <center><h1> See predicted result with images</h1></center>
@@ -715,7 +712,7 @@ plt.show()
 ```
 
 
-![png](output_54_0.png)
+<center><img src="figures/h.png"  width="800" alt="The Pulpit Rock">
 
 
 <center><h1> Submission</h1></center>
