@@ -228,7 +228,7 @@ df['category'].value_counts().plot.bar()
 
 
 
-<center><img src="figures/a.png"  width="800" alt="The Pulpit Rock">
+<center><img src="figures/a.PNG"  width="800" alt="The Pulpit Rock">
 
 
 From our data we have 4000 cats and 4000 dogs
@@ -250,7 +250,7 @@ plt.imshow(image)
 
 
 
-<center><img src="figures/b.png"  width="800" alt="The Pulpit Rock">
+<center><img src="figures/b.PNG"  width="800" alt="The Pulpit Rock">
 
 
 <center><h1>Build Model</h1></center>
@@ -403,7 +403,7 @@ train_df['category'].value_counts().plot.bar()
 
 
 
-<center><img src="figures/c.png"  width="800" alt="The Pulpit Rock">
+<center><img src="figures/c.PNG"  width="800" alt="The Pulpit Rock">
 
 
 
@@ -419,7 +419,7 @@ validate_df['category'].value_counts().plot.bar()
 
 
 
-<center><img src="figures/d.png"  width="800" alt="The Pulpit Rock">
+<center><img src="figures/d.PNG"  width="800" alt="The Pulpit Rock">
 
 
 
@@ -623,8 +623,8 @@ plt.show()
 ```
 
 
-<center><img src="figures/e.png"  width="800" alt="The Pulpit Rock">
-<center><img src="figures/f.png"  width="800" alt="The Pulpit Rock">
+<center><img src="figures/e.PNG"  width="800" alt="The Pulpit Rock">
+<center><img src="figures/f.PNG"  width="800" alt="The Pulpit Rock">
 
 
 <center><h1>Prepare Testing Data</h1></center>
@@ -689,7 +689,7 @@ test_df['category'].value_counts().plot.bar()
 
 
 
-<center><img src="figures/g.png"  width="800" alt="The Pulpit Rock">
+<center><img src="figures/g.PNG"  width="800" alt="The Pulpit Rock">
 
 
 <center><h1> See predicted result with images</h1></center>
@@ -712,7 +712,7 @@ plt.show()
 ```
 
 
-<center><img src="figures/h.png"  width="800" alt="The Pulpit Rock">
+<center><img src="figures/h.PNG"  width="800" alt="The Pulpit Rock">
 
 
 <center><h1> Submission</h1></center>
